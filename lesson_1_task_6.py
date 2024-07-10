@@ -1,0 +1,22 @@
+def namber_1():
+    print(1, end="")
+def namber_2():
+    print(2, end="")
+def namber_3():
+    print(3, end="")
+def namber_4():
+    print(4, end="")
+def namber_5():
+    print(5, end="")
+def namber_6():
+    print(6, end="")
+def namber_7():
+    print(7, end="")
+def namber_8():
+    print(8, end="")
+def namber_9():
+    print(9, end="")
+def namber_0():
+    print(0, end="")
+#88005553535
+namber_8(), namber_8(),namber_0(),namber_0(),namber_5(),namber_5(),namber_5(),namber_3(),namber_5(),namber_3(),namber_5()
